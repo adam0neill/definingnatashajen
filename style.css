@@ -104,7 +104,11 @@ img {
     padding-bottom: 88px;
 }
 
-
+.looking-inwards{
+    background-color: #F6CABD;
+    padding-top: 30px;
+    padding-bottom: 88px;
+}
 
 section, header {
     margin-bottom: 4rem;
