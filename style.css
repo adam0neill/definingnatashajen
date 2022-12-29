@@ -6,3 +6,9 @@
     font-weight: normal;
     line-height: 1em;
 }
+
+body{
+    font-family: futura-pt,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
