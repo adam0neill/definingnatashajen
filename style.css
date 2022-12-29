@@ -13,11 +13,12 @@ body{
     font-family: futura-pt,sans-serif;
     font-weight: 500;
     font-style: normal;
+    font-size: 24;
 }
 
 section, header, footer {
     width: 80%;
-    max-width: 600px;
+    max-width: 1196px;
     margin: 120px;
 
 }
