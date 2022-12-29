@@ -23,12 +23,13 @@ section, header, footer {
 
 }
 
-img {
+.img-1 {
     display: block;
     margin-left: auto;
     margin-right:auto;
     max-width: 50%;
 }
+
 
 .header-img{
     margin: 0;
