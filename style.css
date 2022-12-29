@@ -149,6 +149,7 @@ blockquote {
     color: #C3978A;
     hanging-punctuation: first;
     text-indent: -0.7rem;
+    padding-top: 10px;
 }
 
 a {
