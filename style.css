@@ -280,6 +280,7 @@ footer {
         body {
             margin: auto;
             font-size: 110%; 
+            padding-top: 44px;
         }
 
         article {
