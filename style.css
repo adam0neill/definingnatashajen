@@ -213,6 +213,10 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
+.footer-back{
+    background-color: #C26A57;
+}
+
 footer {
    
     text-align: center;
