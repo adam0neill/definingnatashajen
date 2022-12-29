@@ -110,6 +110,12 @@ img {
     padding-bottom: 88px;
 }
 
+.references{
+    background-color: #DA9586;
+    color:#F9F4F5;
+    font-size: 14px;
+}
+
 section, header {
     margin-bottom: 4rem;
 }
