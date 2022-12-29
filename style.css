@@ -271,7 +271,7 @@ footer {
     .connections svg {
     margin: 1em auto;}
     .connections a:hover svg path {
-    fill: #bbc4f0;
+    fill: #000000;
     transition: all 0.2s ease-in-out;}
     footer .connections a:hover svg path {
     fill: #bbc4f0;
