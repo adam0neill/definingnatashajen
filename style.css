@@ -215,6 +215,7 @@ a:hover {
 
 .footer-back{
     background-color: #C26A57;
+    padding-top: 30px;
 }
 
 footer {
@@ -224,7 +225,6 @@ footer {
     background-color: #C26A57;
     color: #f7f7f7;
     padding: 4em 0 3em 0;
-    width: 100%;
     }
     
     footer p {
