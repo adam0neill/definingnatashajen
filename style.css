@@ -14,3 +14,104 @@ body{
     font-weight: 500;
     font-style: normal;
 }
+
+section, header, footer {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+
+}
+
+section, header {
+    margin-bottom: 4rem;
+}
+
+blockquote {
+    margin-top: 2rem;
+}
+
+p, blockquote {
+    padding: .5rem 0;
+    line-height: 1.3;
+}
+
+header {
+    margin-top: 3rem;
+}
+
+h2 {
+    font-size: 1.999rem;
+    margin: 3rem 0 1rem 0;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.999rem;
+    color: #210124;
+    hanging-punctuation: first;
+    text-indent: -0.7rem;
+}
+
+a {
+    color:#ad677b;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #ad677b;
+    border-bottom: 1px dotted;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    padding: 1.5rem 0;
+    background-color: #5C6D70;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    background: none;
+}
+
+nav a { 
+    color:#ffffff;
+}
+
+nav a:hover {
+    border-bottom: none;
+    color:#FDCECA;
+    transition: all 0.5s ease-in-out;
+}
+
+a {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px dotted;
+}a {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px dotted;
+}
