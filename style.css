@@ -200,15 +200,17 @@ nav a:hover {
 }
 
 a {
-    color:rgb(0, 0, 0);
+    color: #F9F4F5;
     text-decoration: none;
 
 }
 
 a:hover {
-    color: rgb(0, 0, 0);
+    color: #00A3FF;
     border-bottom: 1px dotted;
-}a {
+}
+
+a {
     color:rgb(0, 0, 0);
     text-decoration: none;
 
